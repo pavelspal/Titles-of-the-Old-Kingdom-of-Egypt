@@ -38,15 +38,15 @@ The thesis can be viewed in the PDF [dp_pavel_stojaspal](https://github.com/pave
 | File Name | Path | Description |
 |---|---|---|
 | [dp_pavel_stojaspal.pdf](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/dp_pavel_stojaspal.pdf) |  | Thesis PDF |
-| [log_regression_v1.ipynb](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/scr/jupyter_notebook/R_script/log_regression_v1.ipynb) | scr/jupyter_notebook/R_script | Logistic models for feature version 1 |
-| [log_regression_v2.ipynb](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/scr/jupyter_notebook/R_script/log_regression_v2.ipynb) | scr/jupyter_notebook/R_script | Logistic models for feature version 2 |
-| [nn_copy_log_regression_v1_weight_50.ipynb](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/scr/jupyter_notebook/nn_copy_log_regression_v1_weight_50.ipynb) | scr/jupyter_notebook | MLP models for feature version 1 |
-| [nn_copy_log_regression_v2_weight_50.ipynb](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/scr/jupyter_notebook/nn_copy_log_regression_v2_weight_50.ipynb) | scr/jupyter_notebook | MLP models for feature version 2 |
+| [log_regression_v1.ipynb](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/scr/jupyter_notebook/R_script/log_regression_v1.ipynb) | scr/jupyter_notebook/R_script | Logistic models for feature version&nbsp;1 |
+| [log_regression_v2.ipynb](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/scr/jupyter_notebook/R_script/log_regression_v2.ipynb) | scr/jupyter_notebook/R_script | Logistic models for feature version&nbsp;2 |
+| [nn_copy_log_regression_v1_weight_50.ipynb](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/scr/jupyter_notebook/nn_copy_log_regression_v1_weight_50.ipynb) | scr/jupyter_notebook | MLP models for feature version&nbsp;1 |
+| [nn_copy_log_regression_v2_weight_50.ipynb](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/scr/jupyter_notebook/nn_copy_log_regression_v2_weight_50.ipynb) | scr/jupyter_notebook | MLP models for feature version&nbsp;2 |
 | [summary_model.csv](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/scr/data/summary_model.csv) | scr/data | CSV file with model summary |
 | [summary_title.csv](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/scr/data/summary_title.csv) | scr/data | CSV file with title summary |
 | [summary_person.csv](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/scr/data/summary_person.csv) | scr/data | CSV file with person summary |
-| [summary_model_coefficients_v0.xlsx](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/scr/data/summary_model_coefficients_v0.xlsx) | scr/data | Excel file with coefficient from logistic regression for feature version 1 |
-| [summary_model_coefficients_v0_v2.xlsx](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/scr/data/summary_model_coefficients_v0_v2.xlsx) | scr/data | Excel file with coefficient from logistic regression for feature version 2 |
+| [summary_model_coefficients_v0.xlsx](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/scr/data/summary_model_coefficients_v0.xlsx) | scr/data | Excel file with coefficient from logistic regression for feature version&nbsp;1 |
+| [summary_model_coefficients_v0_v2.xlsx](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/scr/data/summary_model_coefficients_v0_v2.xlsx) | scr/data | Excel file with coefficient from logistic regression for feature version&nbsp;2 |
 
 ## Clone Repository and Download Requirements
 
