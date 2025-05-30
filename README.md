@@ -3,7 +3,7 @@
 This repository provides a brief overview of the code and selected visualizations created as part of my diploma thesis:
 
 **Diploma Thesis Title:** *Detection of Relationships Between Titles of the Old Kingdom of Egypt*  
-**Author:** Pavel Stojaspal 
+**Author:** Pavel Stojaspal  
 **Year:** 2025
 
 ## Abstract
