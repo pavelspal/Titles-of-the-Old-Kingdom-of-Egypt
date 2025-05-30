@@ -20,4 +20,5 @@ This folder includes general support functions used across notebooks and scripts
 | support_plots.py | Functions for SHAP plots |
 | support_save.py | Functions for dataframes save |
 | support_title_stats.py | Functions for title inspection |
+| README.md    | This folder overview (this file) |
 
