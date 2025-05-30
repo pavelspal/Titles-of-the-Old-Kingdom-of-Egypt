@@ -31,6 +31,7 @@ Old Kingdom of Egypt, vizier, machine learning, logistic regression, multilayer 
 ```
 
 ### Clone repository and download requirements
+
 This project uses an Anaconda environment to manage both Python and R dependencies. To use the same dependecies use `environment.yml` or  `requirements.txt`.
 
 Clone repository 
