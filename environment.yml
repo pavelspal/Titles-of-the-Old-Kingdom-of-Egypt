@@ -1,4 +1,4 @@
-name: dip2
+name: titles_env
 channels:
   - conda-forge
   - defaults
