@@ -5,7 +5,7 @@ This folder includes general support functions used across notebooks and scripts
 |---|---|
 | support_analyze_model.py | Functions for plots |
 | support_analyzer.py | Analyzer of Maatbase tables |
-| support_analyzer_fce.py | Support script for support_analyzer.py |
+| support_analyzer_fce.py | Support script for `support_analyzer.py` |
 | support_constants.py | File including constants |
 | support_correlation.py | Functions for inspection of correlations |
 | support_get_mapping.py | Mapping functions |
