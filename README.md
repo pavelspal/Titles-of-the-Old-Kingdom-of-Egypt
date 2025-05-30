@@ -1,4 +1,4 @@
-# Detection of Relationships Between Titles of the Old Kingdom of Egypt
+# Detection of Relationships\\Between Title\\of the Old Kingdom of Egypt
 
 This repository provides a overview of the code and selected visualizations created as part of my diploma thesis:
 
@@ -30,7 +30,7 @@ Old Kingdom of Egypt, vizier, machine learning, logistic regression, multilayer 
 └── README.md                   # Project overview (this file)
 ```
 
-## Clone repository and download requirements
+## Clone Repository and Download Requirements
 
 This project uses an Anaconda environment to manage both Python and R dependencies. To use the same dependecies use `environment.yml` or  `requirements.txt`.
 
