@@ -28,3 +28,19 @@ Old Kingdom of Egypt, vizier, machine learning, logistic regression, multilayer 
 ├── environment.yml             # YML file containing a list of required Python and R packages
 ├── requirements.txt            # TXT file containing a list of required Python and R packages
 └── README.md                   # Project overview (this file)
+```
+
+### Clone repository and download requirements
+This project uses an Anaconda environment to manage both Python and R dependencies. To use the same dependecies use `environment.yml` or  `requirements.txt`.
+
+Clone repository 
+```bash
+git clone https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt.git
+cd Titles-of-the-Old-Kingdom-of-Egypt
+```
+
+Create the environment from `environment.yml` file:
+```bash
+conda env create -f environment.yml
+conda activate dip2
+```
