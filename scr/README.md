@@ -1,10 +1,15 @@
-### scr Folder Overview
+# Folder scr
+This folder includes source codes and data for modeling.
+
+### Folder Overview
 
 | Folder Name | Description |
 |---|---|
 | data | Includes input data and output summary |
 | jupyter_notebook | Jupyter notebooks for analysis and modeling |
 | supp | General support functions used across notebooks and scripts |
+
+### File Overview
 
 | File Name | Description |
 |---|---|
