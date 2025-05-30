@@ -1,5 +1,5 @@
 # Folder scr/jupyter_notebook
-This folder includes Jupyter notebooks for analysis and modeling
+This folder includes Jupyter notebooks for analysis and modeling.
 
 | File Name | Description |
 |---|---|
