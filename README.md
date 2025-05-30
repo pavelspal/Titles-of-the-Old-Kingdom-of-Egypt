@@ -1,4 +1,4 @@
-# Detection of Relationships\\Between Title\\of the Old Kingdom of Egypt
+# Detection of Relationships Between Title of the Old Kingdom of Egypt
 
 This repository provides a overview of the code and selected visualizations created as part of my diploma thesis:
 
