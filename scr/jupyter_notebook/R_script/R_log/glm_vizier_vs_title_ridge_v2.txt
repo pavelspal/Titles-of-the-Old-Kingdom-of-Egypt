@@ -1,0 +1,73 @@
+
+Call:
+glm(formula = target ~ ., family = "binomial", data = df_ridge)
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-2.2520  -0.0564  -0.0455  -0.0275   3.5800  
+
+Coefficients:
+                                 Estimate Std. Error z value Pr(>|z|)    
+(Intercept)                      -5.07030    0.55151  -9.193   <2e-16 ***
+imy.iz.Nxn                        0.42239    1.80055   0.235    0.815    
+Hry.cStA                          0.13108    1.18868   0.110    0.912    
+Xry.Hbt                           0.18624    1.08696   0.171    0.864    
+iwn.knmwt                         0.40655    1.27122   0.320    0.749    
+zA.ncwt.n.Xt.f.cmcw               1.69397    1.47177   1.151    0.250    
+imy.rA.gc.pr                      0.57753    1.41057   0.409    0.682    
+aD.mr.8p                          0.72488    1.82647   0.397    0.691    
+wt.y..Inpw                        0.12045    1.86943   0.064    0.949    
+imy.rA.Snwty                      0.67971    1.12663   0.603    0.546    
+imy.rA.5maw                       0.47812    1.50228   0.318    0.750    
+imAxw                             0.03041    1.08305   0.028    0.978    
+imy.rA.prwy.HD                    0.77202    1.18974   0.649    0.516    
+imy.rA.izwy..n..Xkr.w..ncwt       0.55550    1.58334   0.351    0.726    
+Xry.Hbt.Hry.tp                    0.81088    1.31123   0.618    0.536    
+cmr.waty                          0.27128    0.92336   0.294    0.769    
+imy.rA.prwy.nbw                   0.28256    1.43465   0.197    0.844    
+r.P.nb                            0.26289    1.28194   0.205    0.838    
+zS.mDAt.nTr                       0.40941    1.38775   0.295    0.768    
+zA.ncwt.n.Xt.f                    1.08609    1.46630   0.741    0.459    
+Hry.tp.Nxb                        0.05368    1.75710   0.031    0.976    
+Hry.cStA.n.wD.t..mdw.nbt.nt.ncwt  0.85177    1.24371   0.685    0.493    
+zA.ncwt                           0.38134    1.80007   0.212    0.832    
+imy.rA.kAt.nbt..nt..ncwt          0.89035    0.83235   1.070    0.285    
+aA.8wAw                           0.58431    1.54857   0.377    0.706    
+imA.a                             0.20339    1.97927   0.103    0.918    
+X.imAxw.xr..nTr.aA                0.09388    0.87131   0.108    0.914    
+xrp.SnDt.nbt                      0.73613    1.49531   0.492    0.623    
+xrp.aH                            0.28630    1.45292   0.197    0.844    
+wr.5..m..pr.9Hwty                 1.84356    1.88834   0.976    0.329    
+Hry.cStA.n.pr.dwAt                0.28618    1.54414   0.185    0.853    
+xrp.iAwt.nbwt.nTrwt               0.39665    2.10716   0.188    0.851    
+imy.rA.zS.w..a.w...nw..ncwt       1.47964    1.12475   1.316    0.188    
+Xry.tp.ncwt                       0.22813    0.99219   0.230    0.818    
+mDH.zS.w..ncwt                    0.47959    1.80057   0.266    0.790    
+xtm.ty..bity                      0.64940    1.05778   0.614    0.539    
+imy.iz                            0.28128    1.38160   0.204    0.839    
+imAxw.xr.Wcir                     0.25790    1.16836   0.221    0.825    
+mDH.ncwt.qd.w..m.prwy             1.11418    2.59301   0.430    0.667    
+aD.mr..n..zAb                     0.22844    1.29076   0.177    0.860    
+father_was_vizier                 0.02368    1.48055   0.016    0.987    
+dynasty_1                        -0.01539    0.94071  -0.016    0.987    
+PC2                              -0.01093    0.30324  -0.036    0.971    
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 621.98  on 3258  degrees of freedom
+Residual deviance: 126.21  on 3216  degrees of freedom
+AIC: 212.21
+
+Number of Fisher Scoring iterations: 10
+
+fomula: target - imy.iz.Nxn + Hry.cStA + Xry.Hbt + iwn.knmwt + zA.ncwt.n.Xt.f.cmcw +     imy.rA.gc.pr + aD.mr.8p + wt.y..Inpw + imy.rA.Snwty + imy.rA.5maw +     imAxw + imy.rA.prwy.HD + imy.rA.izwy..n..Xkr.w..ncwt + Xry.Hbt.Hry.tp +     cmr.waty + imy.rA.prwy.nbw + r.P.nb + zS.mDAt.nTr + zA.ncwt.n.Xt.f +     Hry.tp.Nxb + Hry.cStA.n.wD.t..mdw.nbt.nt.ncwt + zA.ncwt +     imy.rA.kAt.nbt..nt..ncwt + aA.8wAw + imA.a + X.imAxw.xr..nTr.aA +     xrp.SnDt.nbt + xrp.aH + wr.5..m..pr.9Hwty + Hry.cStA.n.pr.dwAt +     xrp.iAwt.nbwt.nTrwt + imy.rA.zS.w..a.w...nw..ncwt + Xry.tp.ncwt +     mDH.zS.w..ncwt + xtm.ty..bity + imy.iz + imAxw.xr.Wcir +     mDH.ncwt.qd.w..m.prwy + aD.mr..n..zAb + father_was_vizier +     dynasty_1 + PC2
+response: target
+predictor: imy.iz.Nxn; Hry.cStA; Xry.Hbt; iwn.knmwt; zA.ncwt.n.Xt.f.cmcw; imy.rA.gc.pr; aD.mr.8p; wt.y..Inpw; imy.rA.Snwty; imy.rA.5maw; imAxw; imy.rA.prwy.HD; imy.rA.izwy..n..Xkr.w..ncwt; Xry.Hbt.Hry.tp; cmr.waty; imy.rA.prwy.nbw; r.P.nb; zS.mDAt.nTr; zA.ncwt.n.Xt.f; Hry.tp.Nxb; Hry.cStA.n.wD.t..mdw.nbt.nt.ncwt; zA.ncwt; imy.rA.kAt.nbt..nt..ncwt; aA.8wAw; imA.a; X.imAxw.xr..nTr.aA; xrp.SnDt.nbt; xrp.aH; wr.5..m..pr.9Hwty; Hry.cStA.n.pr.dwAt; xrp.iAwt.nbwt.nTrwt; imy.rA.zS.w..a.w...nw..ncwt; Xry.tp.ncwt; mDH.zS.w..ncwt; xtm.ty..bity; imy.iz; imAxw.xr.Wcir; mDH.ncwt.qd.w..m.prwy; aD.mr..n..zAb; father_was_vizier; dynasty_1; PC2
+date: 2025-05-13
+file name: glm_vizier_vs_title_ridge_v2
+data source path: C:/Users/Stoja/OneDrive/Documents/diplomka/scr/data/df_vizier_train_v2_2.csv
+
+APENDIX:
+

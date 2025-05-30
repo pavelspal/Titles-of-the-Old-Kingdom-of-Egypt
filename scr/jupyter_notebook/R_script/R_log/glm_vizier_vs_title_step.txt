@@ -1,0 +1,39 @@
+
+Call:
+glm(formula = vizier ~ wr.5..m..pr.9Hwty + zA.ncwt.n.Xt.f.cmcw + 
+    imy.rA.kAt.nbt..nt..ncwt + imy.rA.prwy.HD + imy.rA.zS.w..a.w...nw..ncwt + 
+    Xry.Hbt.Hry.tp, family = binomial, data = data)
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-3.0527  -0.0663  -0.0663  -0.0663   3.4991  
+
+Coefficients:
+                             Estimate Std. Error z value Pr(>|z|)    
+(Intercept)                   -6.1196     0.3642 -16.805  < 2e-16 ***
+wr.5..m..pr.9Hwty1             6.5717     1.2630   5.203 1.96e-07 ***
+zA.ncwt.n.Xt.f.cmcw1           5.8386     0.9280   6.291 3.15e-10 ***
+imy.rA.kAt.nbt..nt..ncwt1      2.1700     0.6074   3.572 0.000354 ***
+imy.rA.prwy.HD1                2.1974     0.6956   3.159 0.001584 ** 
+imy.rA.zS.w..a.w...nw..ncwt1   4.8128     0.6228   7.728 1.10e-14 ***
+Xry.Hbt.Hry.tp1                4.1980     0.6513   6.446 1.15e-10 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 621.98  on 3258  degrees of freedom
+Residual deviance: 169.71  on 3252  degrees of freedom
+AIC: 183.71
+
+Number of Fisher Scoring iterations: 8
+
+fomula: vizier - wr.5..m..pr.9Hwty + zA.ncwt.n.Xt.f.cmcw + imy.rA.kAt.nbt..nt..ncwt +     imy.rA.prwy.HD + imy.rA.zS.w..a.w...nw..ncwt + Xry.Hbt.Hry.tp
+response: vizier
+predictor: wr.5..m..pr.9Hwty; zA.ncwt.n.Xt.f.cmcw; imy.rA.kAt.nbt..nt..ncwt; imy.rA.prwy.HD; imy.rA.zS.w..a.w...nw..ncwt; Xry.Hbt.Hry.tp
+date: 2025-05-13
+file name: glm_vizier_vs_title_step
+data source path: C:/Users/Stoja/OneDrive/Documents/diplomka/scr/data/df_vizier_train_v1_2.csv
+
+APENDIX:
+

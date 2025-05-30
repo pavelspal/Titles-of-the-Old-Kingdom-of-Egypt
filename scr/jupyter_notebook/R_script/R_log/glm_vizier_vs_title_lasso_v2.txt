@@ -1,0 +1,49 @@
+
+Call:
+glm(formula = target ~ ., family = "binomial", data = df_lasso)
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-1.9082  -0.0551  -0.0551  -0.0551   3.6031  
+
+Coefficients:
+                                 Estimate Std. Error z value Pr(>|z|)    
+(Intercept)                       -5.8054     0.4287 -13.542  < 2e-16 ***
+iwn.knmwt                          0.4897     0.9195   0.533 0.594322    
+zA.ncwt.n.Xt.f.cmcw                3.8997     1.1618   3.357 0.000789 ***
+aD.mr.8p                           1.4198     1.1318   1.254 0.209675    
+imy.rA.Snwty                       0.2459     1.0042   0.245 0.806555    
+imy.rA.5maw                        0.2619     1.1413   0.229 0.818523    
+imy.rA.prwy.HD                     1.1264     1.0000   1.126 0.260030    
+imy.rA.izwy..n..Xkr.w..ncwt        0.6422     1.1798   0.544 0.586226    
+Xry.Hbt.Hry.tp                     2.0005     1.0174   1.966 0.049276 *  
+cmr.waty                           0.4634     0.7165   0.647 0.517738    
+zA.ncwt.n.Xt.f                     1.6147     1.0940   1.476 0.139964    
+Hry.cStA.n.wD.t..mdw.nbt.nt.ncwt   0.1466     1.1545   0.127 0.898951    
+imy.rA.kAt.nbt..nt..ncwt           1.5500     0.7284   2.128 0.033327 *  
+aA.8wAw                            0.3580     1.1132   0.322 0.747761    
+xrp.SnDt.nbt                       0.9509     1.1459   0.830 0.406598    
+wr.5..m..pr.9Hwty                  4.3195     1.2670   3.409 0.000651 ***
+imy.rA.zS.w..a.w...nw..ncwt        4.0583     0.8076   5.025 5.04e-07 ***
+xtm.ty..bity                       0.7899     0.8320   0.949 0.342381    
+mDH.ncwt.qd.w..m.prwy              0.3629     1.8262   0.199 0.842462    
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 621.98  on 3258  degrees of freedom
+Residual deviance: 144.60  on 3240  degrees of freedom
+AIC: 182.6
+
+Number of Fisher Scoring iterations: 9
+
+fomula: target - iwn.knmwt + zA.ncwt.n.Xt.f.cmcw + aD.mr.8p + imy.rA.Snwty +     imy.rA.5maw + imy.rA.prwy.HD + imy.rA.izwy..n..Xkr.w..ncwt +     Xry.Hbt.Hry.tp + cmr.waty + zA.ncwt.n.Xt.f + Hry.cStA.n.wD.t..mdw.nbt.nt.ncwt +     imy.rA.kAt.nbt..nt..ncwt + aA.8wAw + xrp.SnDt.nbt + wr.5..m..pr.9Hwty +     imy.rA.zS.w..a.w...nw..ncwt + xtm.ty..bity + mDH.ncwt.qd.w..m.prwy
+response: target
+predictor: iwn.knmwt; zA.ncwt.n.Xt.f.cmcw; aD.mr.8p; imy.rA.Snwty; imy.rA.5maw; imy.rA.prwy.HD; imy.rA.izwy..n..Xkr.w..ncwt; Xry.Hbt.Hry.tp; cmr.waty; zA.ncwt.n.Xt.f; Hry.cStA.n.wD.t..mdw.nbt.nt.ncwt; imy.rA.kAt.nbt..nt..ncwt; aA.8wAw; xrp.SnDt.nbt; wr.5..m..pr.9Hwty; imy.rA.zS.w..a.w...nw..ncwt; xtm.ty..bity; mDH.ncwt.qd.w..m.prwy
+date: 2025-05-13
+file name: glm_vizier_vs_title_lasso_v2
+data source path: C:/Users/Stoja/OneDrive/Documents/diplomka/scr/data/df_vizier_train_v2_2.csv
+
+APENDIX:
+

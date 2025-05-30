@@ -1,0 +1,67 @@
+
+Call:
+glm(formula = target ~ ., family = "binomial", data = df_ridge)
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-2.4108  -0.0473  -0.0473  -0.0473   3.6868  
+
+Coefficients:
+                                 Estimate Std. Error z value Pr(>|z|)    
+(Intercept)                      -5.05323    0.49753 -10.157   <2e-16 ***
+X.imAxw.xr..nTr.aA                0.08321    0.79088   0.105   0.9162    
+imAxw.xr.Wcir                     0.23625    1.14576   0.206   0.8366    
+r.P.nb                            0.29508    1.46889   0.201   0.8408    
+imy.rA.izwy..n..Xkr.w..ncwt       0.62719    1.67100   0.375   0.7074    
+wr.5..m..pr.9Hwty                 1.86355    1.69709   1.098   0.2722    
+Xry.tp.ncwt                       0.23861    0.98275   0.243   0.8082    
+Xry.Hbt                           0.19908    1.04628   0.190   0.8491    
+imy.rA.prwy.nbw                   0.33188    1.46142   0.227   0.8204    
+xrp.aH                            0.30063    1.36380   0.220   0.8255    
+zA.ncwt.n.Xt.f.cmcw               1.63345    1.41297   1.156   0.2477    
+iwn.knmwt                         0.41107    1.30415   0.315   0.7526    
+zA.ncwt.n.Xt.f                    1.13575    1.37963   0.823   0.4104    
+imy.iz                            0.22832    1.32377   0.172   0.8631    
+imA.a                             0.30638    1.63396   0.188   0.8513    
+imy.rA.kAt.nbt..nt..ncwt          0.96656    0.81808   1.181   0.2374    
+xrp.SnDt.nbt                      0.72049    1.36235   0.529   0.5969    
+Hry.cStA.n.wD.t..mdw.nbt.nt.ncwt  0.93068    1.21088   0.769   0.4421    
+xtm.ty..bity                      0.69312    1.05762   0.655   0.5122    
+aA.8wAw                           0.56918    1.60708   0.354   0.7232    
+imy.rA.prwy.HD                    0.78677    1.23821   0.635   0.5252    
+cmr.waty                          0.29545    0.84630   0.349   0.7270    
+imy.rA.zS.w..a.w...nw..ncwt       1.51053    0.89288   1.692   0.0907 .  
+Hry.cStA                          0.10895    1.14275   0.095   0.9240    
+imy.rA.gc.pr                      0.52348    1.27724   0.410   0.6819    
+aD.mr..n..zAb                     0.21806    1.30438   0.167   0.8672    
+imAxw                             0.02070    1.10627   0.019   0.9851    
+imy.rA.Snwty                      0.73274    1.14346   0.641   0.5216    
+Xry.Hbt.Hry.tp                    0.86749    1.33023   0.652   0.5143    
+xrp.iAwt.nbwt.nTrwt               0.34754    2.04231   0.170   0.8649    
+zS.mDAt.nTr                       0.39316    1.38257   0.284   0.7761    
+Hry.tp.Nxb                        0.05050    1.76014   0.029   0.9771    
+Htc....Inpw                       0.12711    2.69589   0.047   0.9624    
+imy.iz.Nxn                        0.42912    1.56233   0.275   0.7836    
+Hry.cStA.n.pr.dwAt                0.28046    1.41663   0.198   0.8431    
+zA.ncwt                           0.39385    1.70951   0.230   0.8178    
+imy.rA.5maw                       0.50506    1.26979   0.398   0.6908    
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 621.98  on 3258  degrees of freedom
+Residual deviance: 132.92  on 3222  degrees of freedom
+AIC: 206.92
+
+Number of Fisher Scoring iterations: 9
+
+fomula: target - X.imAxw.xr..nTr.aA + imAxw.xr.Wcir + r.P.nb + imy.rA.izwy..n..Xkr.w..ncwt +     wr.5..m..pr.9Hwty + Xry.tp.ncwt + Xry.Hbt + imy.rA.prwy.nbw +     xrp.aH + zA.ncwt.n.Xt.f.cmcw + iwn.knmwt + zA.ncwt.n.Xt.f +     imy.iz + imA.a + imy.rA.kAt.nbt..nt..ncwt + xrp.SnDt.nbt +     Hry.cStA.n.wD.t..mdw.nbt.nt.ncwt + xtm.ty..bity + aA.8wAw +     imy.rA.prwy.HD + cmr.waty + imy.rA.zS.w..a.w...nw..ncwt +     Hry.cStA + imy.rA.gc.pr + aD.mr..n..zAb + imAxw + imy.rA.Snwty +     Xry.Hbt.Hry.tp + xrp.iAwt.nbwt.nTrwt + zS.mDAt.nTr + Hry.tp.Nxb +     Htc....Inpw + imy.iz.Nxn + Hry.cStA.n.pr.dwAt + zA.ncwt +     imy.rA.5maw
+response: target
+predictor: X.imAxw.xr..nTr.aA; imAxw.xr.Wcir; r.P.nb; imy.rA.izwy..n..Xkr.w..ncwt; wr.5..m..pr.9Hwty; Xry.tp.ncwt; Xry.Hbt; imy.rA.prwy.nbw; xrp.aH; zA.ncwt.n.Xt.f.cmcw; iwn.knmwt; zA.ncwt.n.Xt.f; imy.iz; imA.a; imy.rA.kAt.nbt..nt..ncwt; xrp.SnDt.nbt; Hry.cStA.n.wD.t..mdw.nbt.nt.ncwt; xtm.ty..bity; aA.8wAw; imy.rA.prwy.HD; cmr.waty; imy.rA.zS.w..a.w...nw..ncwt; Hry.cStA; imy.rA.gc.pr; aD.mr..n..zAb; imAxw; imy.rA.Snwty; Xry.Hbt.Hry.tp; xrp.iAwt.nbwt.nTrwt; zS.mDAt.nTr; Hry.tp.Nxb; Htc....Inpw; imy.iz.Nxn; Hry.cStA.n.pr.dwAt; zA.ncwt; imy.rA.5maw
+date: 2025-05-13
+file name: glm_vizier_vs_title_ridge
+data source path: C:/Users/Stoja/OneDrive/Documents/diplomka/scr/data/df_vizier_train_v1_2.csv
+
+APENDIX:
+
