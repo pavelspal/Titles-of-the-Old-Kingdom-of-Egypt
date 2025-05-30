@@ -1,7 +1,7 @@
 # Folder scr
 This folder includes source code and data for modeling.
 
-## Repository Structure
+## Folder Structure
 
 ```plaintext
 ├── data/                     # Sample or anonymized data files
@@ -12,7 +12,7 @@ This folder includes source code and data for modeling.
 └── *.py/                     # Python scripts
 ```
 
-### Folder Overview
+## Folder Overview
 
 | Folders Name | Description |
 |---|---|
@@ -20,7 +20,7 @@ This folder includes source code and data for modeling.
 | jupyter_notebook | Jupyter notebooks for analysis and modeling |
 | supp | General support functions used across notebooks and scripts |
 
-### File Overview
+## File Overview
 
 | Files Name | Description |
 |---|---|
