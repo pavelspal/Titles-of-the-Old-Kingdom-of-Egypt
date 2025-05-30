@@ -19,16 +19,16 @@ The thesis can be viewed in the PDF [dp_pavel_stojaspal](https://github.com/pave
 
 ## Main Files
 
-| File Name                                                                                                                                                                             | Path                          | Description |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------|
-| [dp_pavel_stojaspal.pdf](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/dp_pavel_stojaspal.pdf)                                                            |                               | Thesis PDF  |
-| [log_regression_v1.ipynb](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/scr/jupyter_notebook/R_script/log_regression_v1.ipynb)                            | scr/jupyter_notebook/R_script |             |
-| [log_regression_v2.ipynb](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/scr/jupyter_notebook/R_script/log_regression_v2.ipynb)                            | scr/jupyter_notebook/R_script |             |
-| [nn_copy_log_regression_v1_weight_50.ipynb](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/scr/jupyter_notebook/nn_copy_log_regression_v1_weight_50.ipynb) | scr/jupyter_notebook          |             |
-| [nn_copy_log_regression_v2_weight_50.ipynb](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/scr/jupyter_notebook/nn_copy_log_regression_v2_weight_50.ipynb) | scr/jupyter_notebook          |             |
-|                                                                                                                                                                                       |                               |             |
-|                                                                                                                                                                                       |                               |             |
-|                                                                                                                                                                                       |                               |             |
+| File Name | Path | Description |
+|---|---|---|
+| [dp_pavel_stojaspal.pdf](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/dp_pavel_stojaspal.pdf) |  | Thesis PDF |
+| [log_regression_v1.ipynb](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/scr/jupyter_notebook/R_script/log_regression_v1.ipynb) | scr/jupyter_notebook/R_script | Logistic models v1 |
+| [log_regression_v2.ipynb](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/scr/jupyter_notebook/R_script/log_regression_v2.ipynb) | scr/jupyter_notebook/R_script | Logistic models v2 |
+| [nn_copy_log_regression_v1_weight_50.ipynb](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/scr/jupyter_notebook/nn_copy_log_regression_v1_weight_50.ipynb) | scr/jupyter_notebook | MLP models v1 |
+| [nn_copy_log_regression_v2_weight_50.ipynb](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/scr/jupyter_notebook/nn_copy_log_regression_v2_weight_50.ipynb) | scr/jupyter_notebook | MLP models v2 |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 ## Repository Structure
 
