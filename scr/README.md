@@ -7,7 +7,7 @@ This folder includes source code and data for modeling.
 ├── data/                     # Sample or anonymized data files
 ├── jupyter_notebooks/        # Jupyter notebooks for analysis and modeling
   ├── R_script/               # R Jupyter notebook
-  └── *.ipynb/                # Python Jupiter notebooks
+  └── *.ipynb                 # Python Jupiter notebooks
 ├── supp/                     # General support functions used across notebooks and scripts
 └── *.py/                     # Python scripts
 ```
