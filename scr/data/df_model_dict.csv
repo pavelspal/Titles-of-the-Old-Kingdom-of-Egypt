@@ -1,0 +1,13 @@
+order,model_name,feature_restriction,model_type,feature_version,folder,file_name
+2,step_nn_v1,step,nn,v1,jupyter_notebook\nn_models,mlp_step_2025-05-13-23-35-01.pth
+4,lasso_nn_v1,lasso,nn,v1,jupyter_notebook\nn_models,mlp_lasso_2025-05-13-23-35-52.pth
+6,ridge_nn_v1,ridge,nn,v1,jupyter_notebook\nn_models,mlp_ridge_2025-05-14-08-58-48.pth
+8,step_nn_v2,step,nn,v2,jupyter_notebook\nn_models,mlp_step_2025-05-14-00-16-15.pth
+10,lasso_nn_v2,lasso,nn,v2,jupyter_notebook\nn_models,mlp_lasso_2025-05-14-00-03-05.pth
+12,ridge_nn_v2,ridge,nn,v2,jupyter_notebook\nn_models,mlp_ridge_2025-05-14-00-04-03.pth
+1,step_glm_v1,step,glm,v1,data,summary_model_coefficients_v0.xlsx
+3,lasso_glm_v1,lasso,glm,v1,data,summary_model_coefficients_v0.xlsx
+5,ridge_glm_v1,ridge,glm,v1,data,summary_model_coefficients_v0.xlsx
+7,step_glm_v2,step,glm,v2,data,summary_model_coefficients_v0_v2.xlsx
+9,lasso_glm_v2,lasso,glm,v2,data,summary_model_coefficients_v0_v2.xlsx
+11,ridge_glm_v2,ridge,glm,v2,data,summary_model_coefficients_v0_v2.xlsx
