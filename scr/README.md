@@ -1,9 +1,20 @@
 # Folder scr
 This folder includes source code and data for modeling.
 
+## Repository Structure
+
+```plaintext
+├── data/                     # Sample or anonymized data files
+├── jupyter_notebooks/        # Jupyter notebooks for analysis and modeling
+  ├── R_script/               # R Jupyter notebook
+  └── *.ipynb/                # Python Jupiter notebooks
+├── supp/                     # General support functions used across notebooks and scripts
+└── *.py/                     # Python scripts
+```
+
 ### Folder Overview
 
-| Folder Name | Description |
+| Folders Name | Description |
 |---|---|
 | data | Includes input data and output summaries |
 | jupyter_notebook | Jupyter notebooks for analysis and modeling |
@@ -11,7 +22,7 @@ This folder includes source code and data for modeling.
 
 ### File Overview
 
-| File Name | Description |
+| Files Name | Description |
 |---|---|
 | analyze_R_log.py | Converts logistic coefficients into a CSV file |
 | pickle_analyzer.py | Summarizes tables from the Maatbase database |
