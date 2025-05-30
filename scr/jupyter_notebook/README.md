@@ -5,7 +5,7 @@ This folder includes Jupyter notebooks for analysis and modeling.
 ## Folder Structure
 
 ```plaintext
-├── R_script/                    # R cripts
+├── R_script/                    # R scripts
   ├── R_functions/               # R support functions
   ├── R_log/                     # R summary outputs
   └── *.ipynb/                   # R Jupiter notebooks
