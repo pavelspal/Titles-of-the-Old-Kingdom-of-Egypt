@@ -1,6 +1,17 @@
 # Folder scr/jupyter_notebook
 This folder includes Jupyter notebooks for analysis and modeling.
 
+
+## Folder Structure
+
+```plaintext
+├── R_script/                    # R cripts
+  ├── R_functions/               # R support functions
+  ├── R_log/                     # R summary outputs
+  └── *.ipynb/                   # R Jupiter notebooks
+└── *.ipynb/                     # Python Jupiter notebooks
+```
+
 | File Name | Description |
 |---|---|
 | analyze_roc.ipynb | Inspection of ROC curves for all models |
