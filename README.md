@@ -42,5 +42,5 @@ cd Titles-of-the-Old-Kingdom-of-Egypt
 Create the environment from `environment.yml` file:
 ```bash
 conda env create -f environment.yml
-conda activate dip2
+conda activate titles_env
 ```
