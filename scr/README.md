@@ -4,7 +4,7 @@ This folder includes source code and data for modeling.
 ## Folder Structure
 
 ```plaintext
-├── data/                      # Sample or anonymized data files
+├── data/                     # Sample or anonymized data files
 ├── jupyter_notebook/         # Jupyter notebooks for analysis and modeling
 │   ├── R_script/             # R Jupyter notebooks
 │   └── *.ipynb               # Python Jupyter notebooks
