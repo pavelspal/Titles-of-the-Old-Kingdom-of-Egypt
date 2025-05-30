@@ -17,19 +17,6 @@ Old Kingdom of Egypt, vizier, machine learning, logistic regression, multilayer 
 ## Thesis PDF
 The thesis can be viewed in the PDF [dp_pavel_stojaspal](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/dp_pavel_stojaspal.pdf).
 
-## Main Files
-
-| File Name | Path | Description |
-|---|---|---|
-| [dp_pavel_stojaspal.pdf](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/dp_pavel_stojaspal.pdf) |  | Thesis PDF |
-| [log_regression_v1.ipynb](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/scr/jupyter_notebook/R_script/log_regression_v1.ipynb) | scr/jupyter_notebook/R_script | Logistic models for feature version&nbsp;1 |
-| [log_regression_v2.ipynb](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/scr/jupyter_notebook/R_script/log_regression_v2.ipynb) | scr/jupyter_notebook/R_script | Logistic models for feature version&nbsp;2 |
-| [nn_copy_log_regression_v1_weight_50.ipynb](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/scr/jupyter_notebook/nn_copy_log_regression_v1_weight_50.ipynb) | scr/jupyter_notebook | MLP models for feature version&nbsp;1 |
-| [nn_copy_log_regression_v2_weight_50.ipynb](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/scr/jupyter_notebook/nn_copy_log_regression_v2_weight_50.ipynb) | scr/jupyter_notebook | MLP models for feature version&nbsp;2 |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
 ## Repository Structure
 
 ```plaintext
@@ -45,6 +32,19 @@ The thesis can be viewed in the PDF [dp_pavel_stojaspal](https://github.com/pave
 ├── requirements.txt            # TXT file containing a list of required Python and R packages
 └── README.md                   # Project overview (this file)
 ```
+
+## Main Files
+
+| File Name | Path | Description |
+|---|---|---|
+| [dp_pavel_stojaspal.pdf](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/dp_pavel_stojaspal.pdf) |  | Thesis PDF |
+| [log_regression_v1.ipynb](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/scr/jupyter_notebook/R_script/log_regression_v1.ipynb) | scr/jupyter_notebook/R_script | Logistic models for feature version&nbsp;1 |
+| [log_regression_v2.ipynb](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/scr/jupyter_notebook/R_script/log_regression_v2.ipynb) | scr/jupyter_notebook/R_script | Logistic models for feature version&nbsp;2 |
+| [nn_copy_log_regression_v1_weight_50.ipynb](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/scr/jupyter_notebook/nn_copy_log_regression_v1_weight_50.ipynb) | scr/jupyter_notebook | MLP models for feature version&nbsp;1 |
+| [nn_copy_log_regression_v2_weight_50.ipynb](https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/scr/jupyter_notebook/nn_copy_log_regression_v2_weight_50.ipynb) | scr/jupyter_notebook | MLP models for feature version&nbsp;2 |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 ## Clone Repository and Download Requirements
 
