@@ -1,6 +1,6 @@
 # Detection of Relationships Between Titles of the Old Kingdom of Egypt
 
-This repository provides a brief overview of the code and selected visualizations created as part of my diploma thesis:
+This repository provides a overview of the code and selected visualizations created as part of my diploma thesis:
 
 **Diploma Thesis Title:** *Detection of Relationships Between Titles of the Old Kingdom of Egypt*  
 **Author:** Pavel Stojaspal  
