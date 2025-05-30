@@ -34,7 +34,7 @@ Old Kingdom of Egypt, vizier, machine learning, logistic regression, multilayer 
 
 This project uses an Anaconda environment to manage both Python and R dependencies. To use the same dependecies use `environment.yml` or  `requirements.txt`.
 
-Clone repository 
+Clone repository:
 ```bash
 git clone https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt.git
 cd Titles-of-the-Old-Kingdom-of-Egypt
