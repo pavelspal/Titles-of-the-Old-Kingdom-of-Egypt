@@ -14,6 +14,9 @@ This master thesis aims to analyze the patterns behind the vizier and other titl
 
 Old Kingdom of Egypt, vizier, machine learning, logistic regression, multilayer perceptron, SHAP values.
 
+## Thesis PDF
+The thesis can be viewed in [https://github.com/pavelspal/Titles-of-the-Old-Kingdom-of-Egypt/blob/main/dp_pavel_stojaspal.pdf](PDF).
+
 ## Repository Structure
 
 ```plaintext
