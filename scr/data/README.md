@@ -1,5 +1,5 @@
 # Folder scr/data
-This folder obtaines sample or anonymized data files
+This folder contains sample or anonymized data files.
 
 | File Name | Description |
 |---|---|
